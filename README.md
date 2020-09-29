@@ -1,2 +1,2 @@
-# plantuml-doc-integration-deploy
-Deployment Docs
+# plantuml-doc-integration.github.io
+PlantUML Collaboration Tool: [](https://plantuml-doc-integration.github.io)
